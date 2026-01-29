@@ -63,6 +63,15 @@ Hoje estou em transição para o desenvolvimento, unindo essa bagagem analítica
 <br/>
 <br/>
 
+### 💌 Redes Sociais
+<p>
+  <a href="https://www.linkedin.com/in/vanessa-mineiro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
