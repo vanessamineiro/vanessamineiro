@@ -6,22 +6,10 @@ Sou bacharel em Ciência da Computação e pós-graduada em Desenvolvimento Web 
 
 Hoje estou em transição para o desenvolvimento, unindo essa bagagem analítica à paixão por criar soluções web modernas e funcionais. Gosto de aprender fazendo, explorar novas tecnologias e construir projetos com propósito, clareza e impacto.
 
-<p align="left">
-    <a href="https://github.com/vanessamineiro?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vanessamineiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/vanessamineiro?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vanessamineiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-mineiro/)](https://www.linkedin.com/in/vanessa-mineiro/) 
+[![Gmail Badge](https://img.shields.io/badge/-vanessamineiro.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessamineiro.dev@gmail.com)](mailto:vanessamineiro.dev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/vanessa-mineiro/)](https://www.instagram.com/mineiro_vanessa/)
+
 
 ---
 
