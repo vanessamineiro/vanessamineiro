@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Vanessa Mineiro da Silva
+# 👩🏻‍💻 Vanessa Mineiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
 Sou bacharel em Ciência da Computação e pós-graduada em Desenvolvimento Web Full Stack. Iniciei minha carreira como Analista de Sistemas SAP, lidando diariamente com processos, regras de negócio e problemas complexos.
 
